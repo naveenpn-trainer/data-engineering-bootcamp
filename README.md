@@ -5,7 +5,7 @@
 1. Download Git Bash
 2. Download 7Zip
 
-## Set Up Instructions
+## Environment Setup
 
 1. Open Git Bash
 2. Execute the below commands
@@ -24,6 +24,14 @@
    ├── data-engineering-lab/
    ├── projects/
    ```
+# Configure Environment Variables
+
+## Apache Spark
+
+
+## Confluent Kafka
+
+## 
 
 ## Python Environment Setup
 
