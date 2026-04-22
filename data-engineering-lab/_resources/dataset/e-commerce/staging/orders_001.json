@@ -1,0 +1,11 @@
+{"order_id": "O1001", "order_ts": "2025-01-01T10:15:00", "customer_id": "C001", "item_id": "P100", "qty": 2, "price": 19.99, "status": "CREATED", "country": "IN"}
+{"order_id": "O1002", "order_ts": "2025-01-01T11:20:12", "customer_id": "C003", "item_id": "P200", "qty": 1, "price": 29.50, "status": "DELIVERED", "country": "US"}
+{"order_id": "O1003", "order_ts": "2025-01-01T12:45:30", "customer_id": "C004", "item_id": "P300", "qty": 4, "price": 15.00, "status": null, "country": "UK"}
+{"order_id": "O1004", "order_ts": "2025-01-01T13:10:45", "customer_id": null, "item_id": "P400", "qty": 0, "price": 0, "status": "SHIPPED", "country": "SG"}
+{"order_id": null, "order_ts": "2025-01-01T15:00:12", "customer_id": "C006", "item_id": "P500", "qty": 2, "price": 12.99, "status": "CREATED", "country": "IN"}
+{"order_id": "O1006", "order_ts": "2025-01-01T10:15:00", "customer_id": "C001", "item_id": "P100", "qty": 2, "price": 19.99, "status": "CREATED", "country": "IN"}
+{"order_id": "O1007", "order_ts": "2025-01-01T11:20:12", "customer_id": "C003", "item_id": "P200", "qty": 1, "price": 29.50, "status": "DELIVERED", "country": "US"}
+{"order_id": "O1008", "order_ts": "2025-01-01T12:45:30", "customer_id": "C004", "item_id": "P300", "qty": 4, "price": 15.00, "status": null, "country": "UK"}
+{"order_id": "O1009", "order_ts": "2025-01-01T13:10:45", "customer_id": "C007", "item_id": "P400", "qty": 3, "price": 25.75, "status": "SHIPPED", "country": "SG"}
+{"order_id": null, "order_ts": "2025-01-01T15:00:12", "customer_id": "C007", "item_id": "P500", "qty": 2, "price": 12.99, "status": "CREATED", "country": "IN"}
+

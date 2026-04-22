@@ -1,0 +1,2 @@
+{"order_id": "O1006", "order_ts": "2025-01-01T10:15:00", "customer_id": "C001", "item_id": "I001", "qty": 2, "price": 19.99, "status": "CREATED", "country": "IN"}
+{"order_id": "O1007", "order_ts": "2025-01-01T10:15:00", "customer_id": "C001", "item_id": "I001", "qty": 0, "price": 0, "status": "CREATED", "country": "IN"}

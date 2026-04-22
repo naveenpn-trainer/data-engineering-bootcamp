@@ -1,0 +1,4 @@
+{"customer_id": "C001", "customer_name": "Rahul Sharma", "email": "rahul@gmail.com", "age": 32, "city": "Bangalore"}
+{"customer_id": "C002", "customer_name": "Pooja Mehta", "email": "pooja@yahoo.com", "age": 28, "city": "Mumbai"}
+{"customer_id": "C003", "customer_name": "Amir Khan", "email": "amir@hotmail.com", "age": 40, "city": "Delhi"}
+{"customer_id": "C004", "customer_name": null, "email": "sneha@outlook.com", "age": 35, "city": "Hyderabad"}
