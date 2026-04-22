@@ -30,11 +30,15 @@
 
 ![image-20260422213024517](./imgs/image-20260422213024517.png)
 
-![image-20260422213926117](./imgs/README/image-20260422213926117.png)
+![image-20260422213926117](./imgs/image-20260422213926117.png)
+
+![image-20260422213926118](./imgs/image-20260422213926118.png)
 
 ## Confluent Kafka
 
 ![image-20260422213741341](./imgs/image-20260422213741341.png)
+
+![image-20260422213926119](./imgs/image-20260422213926119.png)
 
 ## Python Environment Setup
 
